@@ -1,4 +1,3 @@
-
 # `15` Dígito decimal
 
 ## 📝 Instrucciones:

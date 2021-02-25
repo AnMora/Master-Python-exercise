@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://tan-aphid-4scmhghb.ws-us03.gitpod.io",
+    "address": "https://maroon-moose-i2ztwjv2.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -190,7 +190,7 @@
         {
             "slug": "14-sum_of_digits",
             "title": "14-sum_of_digits",
-            "done": false,
+            "done": true,
             "path": "exercises/14-sum_of_digits",
             "translations": [
                 "es",
@@ -201,7 +201,7 @@
         {
             "slug": "15-Digit_after_decimal_point",
             "title": "15-Digit_after_decimal_point",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Digit_after_decimal_point",
             "translations": [
                 "us",
@@ -212,7 +212,7 @@
         {
             "slug": "16-Car_route",
             "title": "16-Car_route",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Car_route",
             "translations": [
                 "es",
@@ -223,7 +223,7 @@
         {
             "slug": "17-Century",
             "title": "17-Century",
-            "done": false,
+            "done": true,
             "path": "exercises/17-Century",
             "translations": [
                 "es",
@@ -234,7 +234,7 @@
         {
             "slug": "18-Total_cost",
             "title": "18-Total_cost",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Total_cost",
             "translations": [
                 "es",
@@ -245,7 +245,7 @@
         {
             "slug": "19-Day_of_week",
             "title": "19-Day_of_week",
-            "done": false,
+            "done": true,
             "path": "exercises/19-Day_of_week",
             "translations": [
                 "es",
